@@ -51,7 +51,7 @@ we will give you an optional 1 hour GitHub tutorial:
 * Chris (he/him) / 
 * Rocio/ 
 * Elena (she/her)/ 
-* Cecilia (she/her)/ 
+* Cecilia (she/her)/ My dog and the bees loving my flowers
 * Jack (he/him) / 
 * Jordan (she/her)/ 
 * Edward (he)/ 
